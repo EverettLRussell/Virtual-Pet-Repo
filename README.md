@@ -2,9 +2,9 @@
 
 ## Names of Pair Working on This Fork
 
-<Everett Russell>
+<Everett Russell
 
-<Tyler Stephenson>
+<Tyler Stephenson
 
 ## Run from Git Bash
 
