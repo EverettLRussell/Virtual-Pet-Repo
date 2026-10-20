@@ -17,4 +17,12 @@ public class Dog extends Pet {
     public void bark() {
         System.out.println(getName() + " says: Woof!");
     }
+
+<<<<<<< HEAD
+	public void fetch() {
+		System.out.println(this.name + " fetches a ball!")
+	}
+=======
+	public void fetch() { System.out.println(getName() + " fetches a ball!")}
+>>>>>>> welecome-a
 }
