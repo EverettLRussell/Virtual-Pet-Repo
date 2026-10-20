@@ -32,6 +32,8 @@ public class Pet {
         hunger = Math.max(0, hunger - 20);
     }
 
+    public void nothing() { System.out.println(" "); }
+
 	/**
 	Play with the pet to increase its happiness. Increases
 	happiness by a default value of 15. Increases hunger by
